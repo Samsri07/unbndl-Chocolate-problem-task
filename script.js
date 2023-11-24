@@ -234,7 +234,7 @@ storeItems.forEach((item) => {
             
         }
         else if (arr.length == 6) {
-            alert('We apologize. You cannot add more than 6 chocolates into your cart!')
+            alert('We apologize. You cannot add more than 5 chocolates into your cart!')
             arr.length = 0;
         }
         
